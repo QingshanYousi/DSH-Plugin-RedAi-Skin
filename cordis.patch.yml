@@ -1,0 +1,5 @@
+# Bundle patch for dsh-plugin-redai-skin
+# 单个 loader 记录。宿主侧不做任何事，皮肤逻辑全在 ./lib/client.js。
+- insert:
+    - id: ui-redai-skin
+      name: dsh-plugin-redai-skin

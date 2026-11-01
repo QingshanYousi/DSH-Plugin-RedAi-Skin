@@ -1,0 +1,14 @@
+{
+  "id": "custom.night-owl",
+  "name": "夜枭",
+  "version": 1,
+  "author": "你",
+  "wallpaper": {
+    "light": "radial-gradient(1000px 700px at 20% 10%, #ffe9c7 0%, transparent 60%), linear-gradient(170deg,#fff8ee,#ffeedd)",
+    "dark": "radial-gradient(1000px 700px at 20% 10%, #2a2138 0%, transparent 60%), linear-gradient(170deg,#0f0d16,#151221)"
+  },
+  "pal": {
+    "accent": ["#7C3AED", "#A78BFA"],
+    "label": ["#0f1115", "#f9fafb"]
+  }
+}
